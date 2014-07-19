@@ -39,7 +39,7 @@ config.slide = {
 }
 
 config.hop = {
-   mash = {"cmd","shift"},
+   mash = {"cmd"},
    keys = { k = "up",
     j = "down",
     h = "left",
